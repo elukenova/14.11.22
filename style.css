@@ -3,7 +3,7 @@
 }
 .btn{
   border: 3px solid black;
-  background-color: white ;
+  background-color: transparent ;
   padding: 10px 15px;
   border-radius: 8px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
